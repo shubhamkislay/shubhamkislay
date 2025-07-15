@@ -2,6 +2,8 @@
 # <img src="https://github.com/kevinlee-2000/kevinlee-2000/blob/master/assets/hand_wave.gif" width="29px"> Hello, I’m Shubham  
 <img align="right" src="https://github.com/shubham-kislay/assets/android.gif" width="360"/>
 <img align="center" src="https://github.com/shubhamkislay/shubhamkislay/blob/main/Amazon_Image.jpeg" width="540"/>
+<img align="right" src="https://github.com/shubhamkislay/shubhamkislay/blob/main/466602384_28459115680354029_823495339268188809_n.jpg" width="360"/>
+
 
 ### About me
 - 👨‍💻 Full-time Android & FullStack Engineer. SWE at Amazon
