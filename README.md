@@ -4,7 +4,7 @@
 <img align="center" src="https://github.com/shubhamkislay/shubhamkislay/blob/main/Amazon_Image.jpeg" width="420"/>
 
 ### About me
-- 👨‍💻 Full-time Android & FullStack Engineer at Amazon
+- 👨‍💻 Full-time Android & FullStack Engineer. SWE at Amazon
 - 🎓 Completed M.S. in Information Systems Management at <a href="https://www.asu.edu">Arizona State University</a>  
 - 💼 Over 6 years of experience in Android development, fullstack, backend systems, and AI/ML  
 - 🌐 Passionate about mobile innovations, cloud-native architectures, machine learning and ofcourse ANDROID!!!
